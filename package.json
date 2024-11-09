@@ -1,0 +1,18 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel - Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Chai",
+    "aur",
+    "Code"
+  ],
+  "author": "Viraj Lashkari",
+  "license": "ISC"
+}
